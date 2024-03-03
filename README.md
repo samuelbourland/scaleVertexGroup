@@ -1,5 +1,5 @@
 # Scale Vertex Group
-Blender addon for precision weighting
+Blender Addon for Precision Weighting
 
 This addon is intended to give you more precise control for assigning weights. 
 It was written out a desire to quickly and easily have precise control over weights on individual vertices. 
