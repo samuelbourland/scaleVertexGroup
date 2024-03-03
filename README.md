@@ -1,4 +1,4 @@
-# scaleVertexGroup
+# Scale Vertex Group
 Blender addon for precision weighting
 
 This addon is intended to give you more precise control for assigning weights. 
