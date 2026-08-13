@@ -16,12 +16,6 @@ class ScaleVertexGroup(bpy.types.Operator):
     bl_idname = "mesh.scale_vertex_group"
     bl_label = "Scale Vertex Group"
 
-    def __init__(self):
-        print("Start")
-
-    def __del__(self):
-        print("End")
-
     def execute(self, context):
         if self.shift:
             scale = 1 + self.value / 1000.0
